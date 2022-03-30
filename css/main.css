@@ -11,16 +11,17 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: coral;
 }
 
 /* Player */
 .player {
     min-width: 320px;
-    background-image: linear-gradient(black, gray);
+    background-image: linear-gradient(rgb(255, 0, 0), rgb(120, 2, 167));
     border-radius: 1rem;
     padding: 2rem;
     color: white;
-    box-shadow: 2px 2px 3px black;
+    box-shadow: 2px 2px 3px rgb(255, 2, 149);
 }
 
 /* Title */
