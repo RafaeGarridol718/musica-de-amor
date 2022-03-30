@@ -80,6 +80,26 @@ const songList = [
         file: "16-Camilo, Pedro Capó - Tutu (Official Video).mp3",
         cover: "16-Camilo, Pedro Capó - Tutu.jpg"
     },
+    {
+        title: "17-La Bella Y La Bestia (Con Norykko)",
+        file: "17-La Bella Y La Bestia (Con Norykko).mp3",
+        cover: "17-La Bella Y La Bestia (Con Norykko).jpg"
+    },
+    {
+        title: "18-Si tú estuvieras aquí - César Franco",
+        file: "18-Si tú estuvieras aquí - César Franco.mp3",
+        cover: "18-Si tú estuvieras aquí - César Franco.jpg"
+    },
+    {
+        title: "19-Pierrot",
+        file: "19- Pierrot  Hatsune Miku - Español Latino.mp3",
+        cover: "19-Pierrot.jpg"
+    },
+    {
+        title: "20-playa-sol",
+        file: "20-Mi corazón encantado - Aaron montalvo  letra.mp3",
+        cover: "20-playa-sol.jpg"
+    },
 ]
 
 // Canción actual
