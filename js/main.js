@@ -26,9 +26,59 @@ const songList = [
         cover: "05-Si tú quieres - Elefante.jpg"
     },
     {
-        title: "05-Si tú quieres - Elefante",
-        file: "05-Si tú quieres - Elefante.mp3",
-        cover: "05-Si tú quieres - Elefante.jpg"
+        title: "06-Río Roma - Por Eso Te Amo",
+        file: "06-Río Roma - Por Eso Te Amo.mp3",
+        cover: "06-Río Roma - Por Eso Te Amo.jpg"
+    },
+    {
+        title: "07-KAROL G - Así Es El Amor",
+        file: "07-KAROL G - Así Es El Amor.mp3",
+        cover: "07-KAROL G - Así Es El Amor.jpg"
+    },
+    {
+        title: "08-Pablo Alborán - Solamente Tú",
+        file: "08-Pablo Alborán - Solamente Tú (Videoclip Oficial).mp3",
+        cover: "08-Pablo Alborán - Solamente Tú.jpg"
+    },
+    {
+        title: "09-Luis Miguel - la Incondicional",
+        file: "09-Luis Miguel - La Incondicional (Video Oficial).mp3",
+        cover: "09-Luis Miguel - la Incondicional.jpg"
+    },
+    {
+        title: "10-OV7 - Shabadaba",
+        file: "10-OV7 - Shabadaba.mp3",
+        cover: "10-OV7 - Shabadaba.jpg"
+    },
+    {
+        title: "11-Chopin - Nocturne",
+        file: "11-Chopin - Nocturne .mp3",
+        cover: "11-Chopin - Nocturne.jpg"
+    },
+    {
+        title: "12-Chopin - Spring Waltz (Mariage d'Amour) [Please Read Description]",
+        file: "12-Chopin - Spring Waltz.mp3",
+        cover: "12-Chopin - Spring Waltz (Mariage d'Amour) [Please Read Description].jpg"
+    },
+    {
+        title: "13-Música de Fondo Instrumental Inspiradora",
+        file: "13-Música de Fondo Instrumental Inspiradora.mp3",
+        cover: "13-Música de Fondo Instrumental Inspiradora.jpg"
+    },
+    {
+        title: "14-SOLEADO - INSTRUMENTAL - musica clasica",
+        file: "14-SOLEADO - INSTRUMENTAL - musica clasica.mp3",
+        cover: "14-SOLEADO - INSTRUMENTAL - musica clasica.jpg"
+    },
+    {
+        title: "15-Ai Kotoba Palabras de Amor Emanuel Santiago Fan Doblaje Latino",
+        file: "15-Ai Kotoba   Palabras de Amor Emanuel Santiago Fan Doblaje Latino.mp3",
+        cover: "15-Ai Kotoba Palabras de Amor Emanuel Santiago Fan Doblaje Latino.jpg"
+    },
+    {
+        title: "16-Camilo, Pedro Capó - Tutu",
+        file: "16-Camilo, Pedro Capó - Tutu (Official Video).mp3",
+        cover: "16-Camilo, Pedro Capó - Tutu.jpg"
     },
 ]
 
